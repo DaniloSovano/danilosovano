@@ -8,9 +8,9 @@ Olá, Bem vindo ao meu Github
 ##
 <div>
   <a href="https://github.com/DaniloSovano/Calculadora-em-Python">
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloSovano&repo=Calculadora-em-Python&theme=tokyonight" />
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloSovano&repo=Calculadora-em-Python&theme=tokyonight" />
   <a href= "https://github.com/DaniloSovano/Batalha_Naval">
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloSovano&repo=Batalha_Naval&theme=tokyonight" />
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloSovano&repo=Batalha_Naval&theme=tokyonight" />
 </div>
     
 ##
