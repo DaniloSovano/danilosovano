@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 12 hours
+    # a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
+      - name: Clonar repositório
         uses: actions/checkout@v3
 
-      - name: Generate the snake files in './dist/'
+      - name: Gerar os arquivos da cobra em './dist/'
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -29,14 +29,28 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
+      - name: Mostrar status da build
         run: git status
 
-      - name: Push new files to the output branch
+      - name: Verificar se o branch de saída existe
+        run: |
+          if git show-ref --verify --quiet refs/heads/output; then
+            echo "Branch output existe."
+          else
+            echo "Branch output não existe. Criando..."
+            git checkout -b output
+            git push origin output
+          fi
+
+      - name: Empurrar novos arquivos para o branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
+          commit_message: Atualizar animações da cobra
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Notificação de sucesso
+        if: success()
+        run: echo "A animação da cobra foi gerada e os arquivos foram enviados com sucesso!"
