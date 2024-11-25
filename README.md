@@ -13,7 +13,7 @@ Olá, Bem vindo ao meu Github
     <img height="130cm" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloSovano&repo=Batalha_Naval&theme=tokyonight" />
   </a>
    <a href="https://github.com/DaniloSovano/Jogo_da_velha">
-    <img height="130cm" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloSovano&repo=Jogo_da_velha&theme=tokyonight" />
+    <img height="112cm" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloSovano&repo=Jogo_da_velha&theme=tokyonight" />
   </a>
 </div>
     
