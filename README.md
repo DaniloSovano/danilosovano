@@ -16,7 +16,7 @@
 
 <br>
 
-<h1><img align="center" height="50" width="50" src = "https://img.icons8.com/?size=100&id=95QOx2u4xvlo&format=png&color=000000"> Social media </h1>
+<h1><img align="center" height="50" width="50" src = "https://img.icons8.com/?size=100&id=95QOx2u4xvlo&format=png&color=000000"> Social media: </h1>
 <div>
   <a href="https://instagram.com/danilo_sovano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:danilosovano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
