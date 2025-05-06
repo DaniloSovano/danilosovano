@@ -5,9 +5,18 @@
 </div>
 
 <h1>💻 Stats:</h1>
-<div style="display: flex; justify-content: center; gap: 100px;">
-  <img height = "170cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloSovano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-</div> 
+<div style="display: flex; justify-content: center; gap: 100px;border: 1px solid white; padding: 10px; border-radius: 10px;">
+
+  <div style="border: 1px solid white; padding: 10px; border-radius: 10px;">
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloSovano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
+
+  <div style="border: 50px solid white; padding: 10px; border-radius: 10px;">
+    <img height="170cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniloSovano&theme=tokyonight" />
+  </div>
+
+</div>
+
 <div>
   <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
