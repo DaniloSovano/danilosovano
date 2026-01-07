@@ -1,15 +1,15 @@
 <h1>🖐 Olá, Bem-vindo ao meu Github</h1>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; background-color: #1A1B27; padding: 20px; border-radius: 10px;">
+<!-- <div style="display: flex; justify-content: center; align-items: center; gap: 20px; background-color: #1A1B27; padding: 20px; border-radius: 10px;">
   <img height = "200cm" src="https://github-readme-stats.vercel.app/api?username=DaniloSovano&show_icons=true&theme=tokyonight" width="400px" />
 </div>
-
+-->
 <h1>💻 Stats:</h1>
 <div style="display: flex; justify-content: center; gap: 100px;border: 1px solid white; padding: 10px; border-radius: 10px;">
 
-  <div style="border: 1px solid white; padding: 10px; border-radius: 10px;">
+  <!--<div style="border: 1px solid white; padding: 10px; border-radius: 10px;">
     <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloSovano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </div>
+  </div>-->
 
   <div style="border: 50px solid white; padding: 10px; border-radius: 10px;">
     <img height="170cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniloSovano&theme=tokyonight" />
