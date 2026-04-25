@@ -18,16 +18,15 @@
 </div>
 
 <div>
-  <img align="center" alt="python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Cpp" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="Java" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="ufpa" height="80" width="60" src="./assets/icone.png">
+  <img align="left" alt="python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="Cpp" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="left" alt="Java" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+  <img align="left" alt="ufpa" height="80" width="60" src="./assets/icone.png">
 </div>
-
 <br>
-
-<h1><img align="center" height="50" width="50" src = "https://img.icons8.com/?size=100&id=95QOx2u4xvlo&format=png&color=000000"> Social media: </h1>
+<br>
+<br>
+<h1> Social media: </h1>
 <div>
   <a href="https://instagram.com/danilo_sovano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:danilosovano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
