@@ -18,9 +18,9 @@
 </div>
 
 <div>
+  <img align="left" alt="Java" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
   <img align="left" alt="python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="Cpp" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="left" alt="Java" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
   <img align="left" alt="ufpa" height="80" width="60" src="./assets/icone.png">
 </div>
 <br>
